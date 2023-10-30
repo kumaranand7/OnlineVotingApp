@@ -2,12 +2,11 @@
 
 ![Project Snapshot](url_to_project_snapshot.png)
 
-The Online Voting System is an Android application developed in Android Studio, utilizing an SQLite database as the backend. The primary objective of this system is to create an online voting platform that functions similarly to an online reservation system. It allows Indian citizens who are 18 years of age or older to vote online without having to visit a physical polling booth.
+The Online Voting System is an Android application developed in Android Studio, utilizing an SQLite database as the backend. The primary objective of this system is to create an online voting platform that functions similarly to an online reservation system. It allows citizens who are 18 years of age or older to vote online without having to visit a physical polling booth.
 
 ## :rocket: Features
 
 - **Online Voting**: Citizens can vote from the convenience of their homes through the Android application.
-- **Authentication**: The system authenticates users by verifying their information with the centralized database maintained by the Election Commission of India.
 - **Database Integration**: Utilizes SQLite as the backend database for storing user information.
 
 ## :mag: How it Works
