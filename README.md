@@ -1,5 +1,5 @@
 # Online Voting System
- 
+  
 ## :camera: Snapshot
 <!-- Snapshots -->
 <div align="center">
